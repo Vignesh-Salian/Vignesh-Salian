@@ -1,15 +1,82 @@
-# 💫 About Me:
-🎓 3rd-year B.Tech Information Science student at NMAMIT with a strong foundation in Python and Object-Oriented Programming.<br><br>💻 I build practical, real-world applications using Python and Flask, with experience in automation, API integration, and backend development.<br><br>🤖 Passionate about Machine Learning and Computer Vision, and interested in developing AI-powered solutions that solve real problems.<br><br>📈 Currently strengthening my Data Structures & Algorithms and backend skills to prepare for product-based software roles.<br><br>🚀 Open to internship and full-time opportunities in Software Development, Backend Engineering, and AI.
+# Hi 👋 I'm Vignesh N Salian
 
+![](https://komarev.com/ghpvc/?username=Vignesh-Salian&label=Profile%20Views&color=blueviolet&style=for-the-badge)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_vignesh_salian) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/vignesh-n-salian) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salianvignesh05@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vignesh-Salian&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Vignesh-Salian&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh-Salian&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 💫 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🎓 3rd-year B.Tech Information Science student at NMAMIT with a strong foundation in Python and Object-Oriented Programming.  
+
+💻 I build practical, real-world applications using Python and Flask, with experience in automation, API integration, and backend development.  
+
+🤖 Passionate about Machine Learning and Computer Vision, interested in developing AI-powered solutions that solve real-world problems.  
+
+📈 Currently strengthening my Data Structures & Algorithms and backend skills to prepare for product-based software roles.  
+
+🚀 Open to internship and full-time opportunities in Software Development, Backend Engineering, and AI.
+
+---
+
+## 📄 Research Paper
+
+**🦷 Computer Vision System for Real-Time Nasal–Jaw Distance Measurement in Dental Applications**
+
+📌 ICCES-2025 (IEEE Conference)  
+⚡ 150+ FPS real-time performance  
+⚡ 4.9% CPU utilization  
+⚡ Sub-pixel calibration accuracy  
+
+📥 [Read Full Paper](https://drive.google.com/file/d/1x6QKomOKSH-slyzdLJyiucBERTP-iVN-/view)
+
+---
+
+## 🌐 Connect With Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_vignesh_salian)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-n-salian)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salianvignesh05@gmail.com)
+
+---
+
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Jinja](https://img.shields.io/badge/JINJA-B41717?style=for-the-badge&logo=jinja&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GITHUB-121011?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFMPEG-171717?style=for-the-badge&logo=ffmpeg&logoColor=green)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vignesh-Salian&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Vignesh-Salian&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Vignesh-Salian&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh-Salian&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vignesh-Salian&theme=tokyo-night)
