@@ -1,7 +1,7 @@
 # Hi 👋 I'm Vignesh N Salian  
 
 <p align="center">
-  <img src="coding.gif" width="600"/>
+  <img src="coding.gif" width="300"/>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=Vignesh-Salian&label=Profile%20Views&color=blueviolet&style=for-the-badge)
