@@ -1,7 +1,7 @@
 # Hi 👋 I'm Vignesh N Salian  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Backend%20Developer%20%7C%20ML%20Enthusiast&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 ![](https://komarev.com/ghpvc/?username=Vignesh-Salian&label=Profile%20Views&color=blueviolet&style=for-the-badge)
@@ -10,28 +10,27 @@
 
 ## 💫 About Me
 
-🎓 3rd-year B.Tech Information Science student at NMAMIT  
-💻 Backend-focused developer with strong Python & OOP foundation  
-🤖 Passionate about Machine Learning & Computer Vision  
-📈 Actively strengthening DSA & system design skills  
-🚀 Targeting product-based software roles  
+🎓 3rd-year B.Tech Information Science student at NMAMIT with a strong foundation in Python and Object-Oriented Programming.  
+
+💻 I build practical, real-world applications using Python and Flask, with experience in automation, API integration, and backend development.  
+
+🤖 Passionate about Machine Learning and Computer Vision, interested in developing AI-powered solutions that solve real-world problems.  
+
+📈 Currently strengthening my Data Structures & Algorithms and backend skills to prepare for product-based software roles.  
+
+🚀 Open to internship and full-time opportunities in Software Development, Backend Engineering, and AI.
 
 ---
 
-## 📄 Research Paper
+## 🌐 Connect With Me
 
-**🦷 Computer Vision System for Real-Time Nasal–Jaw Distance Measurement in Dental Applications**  
-
-📌 ICCES-2025 (IEEE Conference)  
-⚡ 150+ FPS real-time performance  
-⚡ 4.9% CPU utilization  
-⚡ Sub-pixel calibration accuracy  
-
-📥 [Read Full Paper](https://drive.google.com/file/d/1x6QKomOKSH-slyzdLJyiucBERTP-iVN-/view)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-n-salian)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_vignesh_salian)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salianvignesh05@gmail.com)
 
 ---
 
-# 🛠 Skills
+## 💻 Technical Skills
 
 ## 🧑‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -63,20 +62,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-171717?style=for-the-badge&logo=ffmpeg&logoColor=green)
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-n-salian)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_vignesh_salian)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salianvignesh05@gmail.com)
-
----
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vignesh-Salian&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
