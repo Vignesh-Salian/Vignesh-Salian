@@ -86,8 +86,8 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vignesh-Salian/Vignesh-Salian/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/Vignesh-Salian/Vignesh-Salian/output/github-snake-dark.svg" alt="snake animation"/>
 </p>
