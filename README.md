@@ -83,3 +83,11 @@
 ![](https://streak-stats.demolab.com?user=Vignesh-Salian&theme=tokyonight&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh-Salian&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vignesh-Salian/Vignesh-Salian/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
