@@ -129,6 +129,12 @@
 
 <div align="center">
   <picture>
-    <img src="https://raw.githubusercontent.com/Vignesh-Salian/Vignesh-Salian/main/space-shooter/space-shooter.webp" width="100%" alt="Space Shooter Action Required" />
+    <img src="https://raw.githubusercontent.com/Vignesh-Salian/Vignesh-Salian/main/gh-space-shooter.gif" width="100%" alt="Space Shooter Game" />
   </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%" alt="Footer" />
 </div>
