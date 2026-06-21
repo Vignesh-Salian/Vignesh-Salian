@@ -1,118 +1,133 @@
-# Hi 👋 I'm Vignesh N Salian
+<div align="center">
+  <!-- Waving Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Vignesh%20N%20Salian&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=white" alt="Header" />
+  
+  <!-- Dynamic Typing Effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+Developer;AI+%26+Computer+Vision+Enthusiast" alt="Typing SVG" />
+  </a>
 
-<h3 align="center">
-Full Stack Developer | Python Developer | AI & Computer Vision Enthusiast
-</h3>
+  <!-- Profile Views -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Vignesh-Salian&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  </p>
 
-<p align="center">
-  <img src="coding.gif" width="400"/>
-</p>
-
-![](https://komarev.com/ghpvc/?username=Vignesh-Salian&label=Profile%20Views&color=blueviolet&style=for-the-badge)
-
----
-
-# 💫 About Me
-
-🎓 3rd-year B.Tech Information Science student at **NMAMIT** with a strong foundation in **Python** and **Object-Oriented Programming**.
-
-💻 I build practical, real-world applications using **Python, Flask, JavaScript, HTML, CSS, and SQL**, with experience in API integration and full-stack application development.
-
-🤖 Passionate about **Machine Learning**, **Computer Vision**, and AI-driven solutions that solve real-world problems.
-
-📈 Currently strengthening my **Data Structures & Algorithms**, system design, and full-stack development skills to prepare for product-based software roles.
-
-🚀 Open to internship and full-time opportunities in **Software Development, Full Stack Development, and AI**.
+  <!-- Social Links -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/vignesh-n-salian"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
+    <a href="https://www.instagram.com/_vignesh_salian"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram" /></a>
+    <a href="mailto:salianvignesh05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
+  </p>
+</div>
 
 ---
 
-# 📄 Research Papers
+## 💫 About Me
 
-## 🦷 Computer Vision System for Real-Time Nasal–Jaw Distance Measurement in Dental Applications
-
-📌 **ICCES-2025 (IEEE Conference)**
-
-⚡ 150+ FPS real-time performance  
-⚡ 4.9% CPU utilization  
-⚡ Sub-pixel calibration accuracy  
-
-📥 **Read Full Paper:**  
-https://drive.google.com/file/d/1x6QKomOKSH-slyzdLJyiucBERTP-iVN-/view
-
----
-
-## 👁️ A Comparative Analysis Framework for Automated Human Detection
-
-📌 **ICTIS 2026 – International Conference on Information and Communication Technology for Intelligent Systems**  
-📚 **Springer Nature Publication**
-
-⚡ Comparative analysis of YOLOv5, SSD, Faster R-CNN, RetinaNet, and EfficientDet  
-⚡ Achieved up to **96% accuracy** on CCTV human detection datasets  
-⚡ Developed an intelligent surveillance framework for real-time monitoring and alert generation
-
-📄 **Paper Title:**  
-*A Comparative Analysis Framework for Automated Human Detection*
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <ul>
+        <li>🎓 3rd-year B.Tech <b>Information Science</b> student at <b>NMAMIT</b> with a strong foundation in OOP and Python.</li>
+        <li>💻 Building practical, real-world applications using <b>Python, Flask, JavaScript, HTML, CSS, and SQL</b>.</li>
+        <li>🤖 Passionate about <b>Machine Learning</b>, <b>Computer Vision</b>, and AI-driven solutions.</li>
+        <li>📈 Currently strengthening my <b>Data Structures & Algorithms</b>, system design, and full-stack skills.</li>
+        <li>🚀 Open to internship and full-time opportunities in <b>Software Development, Full Stack, and AI</b>.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="coding.gif" width="100%" alt="Coding Animation" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 🌐 Connect With Me
+## 🛠️ Technical Arsenal
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-n-salian)
+<div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_vignesh_salian)
+### 👨‍💻 Programming Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salianvignesh05@gmail.com)
+### ⚙️ Frameworks & Libraries
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask" alt="Flask" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" alt="Pandas" />
+<img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=for-the-badge&logo=scikit-learn" alt="Scikit-Learn" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
 
----
+### 🗄 Databases & Tools
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 
-# 💻 Technical Skills
-
-## 👨‍💻 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-## ⚙️ Frameworks & Libraries
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+</div>
 
 ---
 
-## 🗄 Databases
+## 📄 Research & Publications
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🦷 CV for Real-Time Nasal–Jaw Distance Measurement</h3>
+      <p><b>📌 ICCES-2025 (IEEE Conference)</b></p>
+      <ul>
+        <li>⚡ 150+ FPS real-time performance</li>
+        <li>⚡ 4.9% CPU utilization</li>
+        <li>⚡ Sub-pixel calibration accuracy</li>
+      </ul>
+      <a href="https://drive.google.com/file/d/1x6QKomOKSH-slyzdLJyiucBERTP-iVN-/view"><img src="https://img.shields.io/badge/Read_Paper-FF0000?style=for-the-badge&logo=google-drive&logoColor=white" alt="Read Paper" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>👁️ Comparative Analysis Framework for Automated Human Detection</h3>
+      <p><b>📌 ICTIS 2026 (Springer Nature)</b></p>
+      <ul>
+        <li>⚡ Up to 96% accuracy on CCTV datasets</li>
+        <li>⚡ Intelligent surveillance framework</li>
+        <li>⚡ Comprehensive model comparison</li>
+      </ul>
+      <a href="https://drive.google.com/file/d/1rUi2Uzq1PCt7-75yQM6oSdEUHE6ouKcS/view?usp=sharing"><img src="https://img.shields.io/badge/Read_Paper-FF0000?style=for-the-badge&logo=google-drive&logoColor=white" alt="Read Paper" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🧰 Tools & Technologies
+## 📊 GitHub Analytics
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<div align="center">
+  <a href="https://github.com/Vignesh-Salian">
+    <img src="https://github-readme-stats.vercel.app/api?username=Vignesh-Salian&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Vignesh-Salian">
+    <img src="https://streak-stats.demolab.com?user=Vignesh-Salian&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+  </a>
+  <br>
+  <br>
+  <a href="https://github.com/Vignesh-Salian">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh-Salian&theme=tokyonight&hide_border=true&layout=compact" width="48%" alt="Top Languages" />
+  </a>
+</div>
 
 ---
 
-# 📊 GitHub Stats
+## 🐍 Contribution Activity
 
-![](https://github-readme-stats.vercel.app/api?username=Vignesh-Salian&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vignesh-Salian/Vignesh-Salian/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vignesh-Salian/Vignesh-Salian/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vignesh-Salian/Vignesh-Salian/output/github-snake.svg">
+  </picture>
+</div>
 
-![](https://streak-stats.demolab.com?user=Vignesh-Salian&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh-Salian&theme=tokyonight&hide_border=true&layout=compact)
-
----
-
-# 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vignesh-Salian/Vignesh-Salian/output/github-snake-dark.svg" alt="snake animation"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer" />
+</div>
