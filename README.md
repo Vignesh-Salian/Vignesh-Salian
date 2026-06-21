@@ -123,15 +123,15 @@
 <!-- ✨ UNIQUE ANIMATED COLOR-CHANGING DIVIDER ✨ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-## 🐍 Contribution Activity
+## 🚀 Contribution Activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vignesh-Salian/Vignesh-Salian/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vignesh-Salian/Vignesh-Salian/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vignesh-Salian/Vignesh-Salian/output/github-snake.svg">
-  </picture>
+  <a href="https://github.com/Vignesh-Salian">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vignesh-Salian&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  </a>
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%" alt="Footer" />
