@@ -5,7 +5,6 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
-# This line gives it permission to save the image!
 permissions:
   contents: write
 
@@ -20,3 +19,4 @@ jobs:
       - uses: czl9707/gh-space-shooter@v2
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          no-amend: true
