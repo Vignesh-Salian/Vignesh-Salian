@@ -1,10 +1,10 @@
 <div align="center">
-  <!-- Waving Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Vignesh%20N%20Salian&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=white" alt="Header" />
+  <!-- Waving Header with Time-Changing Gradient -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Vignesh%20N%20Salian&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header" />
   
   <!-- Dynamic Typing Effect -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+Developer;AI+%26+Computer+Vision+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+Developer;AI+%26+Computer+Vision+Enthusiast" alt="Typing SVG" />
   </a>
 
   <!-- Profile Views -->
@@ -20,7 +20,8 @@
   </p>
 </div>
 
----
+<!-- ✨ UNIQUE ANIMATED COLOR-CHANGING DIVIDER ✨ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 ## 💫 About Me
 
@@ -41,7 +42,8 @@
   </tr>
 </table>
 
----
+<!-- ✨ UNIQUE ANIMATED COLOR-CHANGING DIVIDER ✨ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 ## 🛠️ Technical Arsenal
 
@@ -69,7 +71,8 @@
 
 </div>
 
----
+<!-- ✨ UNIQUE ANIMATED COLOR-CHANGING DIVIDER ✨ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 ## 📄 Research & Publications
 
@@ -98,7 +101,8 @@
   </tr>
 </table>
 
----
+<!-- ✨ UNIQUE ANIMATED COLOR-CHANGING DIVIDER ✨ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 ## 📊 GitHub Analytics
 
@@ -116,7 +120,8 @@
   </a>
 </div>
 
----
+<!-- ✨ UNIQUE ANIMATED COLOR-CHANGING DIVIDER ✨ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 ## 🐍 Contribution Activity
 
@@ -129,5 +134,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%" alt="Footer" />
 </div>
