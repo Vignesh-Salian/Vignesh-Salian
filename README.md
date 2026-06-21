@@ -67,19 +67,21 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL" />
+  <br>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 
   <br><br>
 
   <h3>⚙️ Frameworks & Libraries</h3>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask" alt="Flask" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white" alt="SQLAlchemy" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <br>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" alt="Pandas" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
 
   <br><br>
 
@@ -96,10 +98,10 @@
   <br><br>
 
   <h3>🔌 Backend & APIs</h3>
-  <img src="https://img.shields.io/badge/REST_APIs-005C84?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/REST_APIs-005C84?style=for-the-badge&logo=json&logoColor=white" alt="REST APIs" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" />
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic" />
-  <img src="https://img.shields.io/badge/Alembic-336791?style=for-the-badge" alt="Alembic" />
+  <img src="https://img.shields.io/badge/Alembic-336791?style=for-the-badge&logo=python&logoColor=white" alt="Alembic" />
 
   <br><br>
 
@@ -107,6 +109,7 @@
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <br>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
@@ -117,6 +120,7 @@
   <img src="https://img.shields.io/badge/OOP-b52e31?style=for-the-badge" alt="OOP" />
   <img src="https://img.shields.io/badge/DSA-00599C?style=for-the-badge" alt="DSA" />
   <img src="https://img.shields.io/badge/MVC-4B0082?style=for-the-badge" alt="MVC" />
+  <br>
   <img src="https://img.shields.io/badge/RBAC-ff69b4?style=for-the-badge" alt="RBAC" />
   <img src="https://img.shields.io/badge/Database_Design-4479A1?style=for-the-badge" alt="Database Design" />
   <img src="https://img.shields.io/badge/API_Design-009688?style=for-the-badge" alt="API Design" />
