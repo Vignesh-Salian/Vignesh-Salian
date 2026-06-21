@@ -1,12 +1,14 @@
-# Hi 👋, I'm Vignesh N Salian
+# Hi 👋 I'm Vignesh N Salian
+
+<h3 align="center">
+Full Stack Developer | Python Developer | AI & Computer Vision Enthusiast
+</h3>
 
 <p align="center">
   <img src="coding.gif" width="400"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vignesh-Salian&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</p>
+![](https://komarev.com/ghpvc/?username=Vignesh-Salian&label=Profile%20Views&color=blueviolet&style=for-the-badge)
 
 ---
 
@@ -14,46 +16,52 @@
 
 🎓 3rd-year B.Tech Information Science student at **NMAMIT** with a strong foundation in **Python** and **Object-Oriented Programming**.
 
-💻 I build practical, real-world applications using **Python** and **Flask**, with experience in automation, API integration, and backend development.
+💻 I build practical, real-world applications using **Python, Flask, JavaScript, HTML, CSS, and SQL**, with experience in API integration and full-stack application development.
 
-🤖 Passionate about **Machine Learning** and **Computer Vision**, interested in developing AI-powered solutions that solve real-world problems.
+🤖 Passionate about **Machine Learning**, **Computer Vision**, and AI-driven solutions that solve real-world problems.
 
-📈 Currently strengthening my **Data Structures & Algorithms** and backend skills to prepare for product-based software roles.
+📈 Currently strengthening my **Data Structures & Algorithms**, system design, and full-stack development skills to prepare for product-based software roles.
 
-🚀 Open to internship and full-time opportunities in **Software Development, Backend Engineering, and AI**.
+🚀 Open to internship and full-time opportunities in **Software Development, Full Stack Development, and AI**.
 
 ---
 
-# 📄 Research Paper
+# 📄 Research Papers
 
 ## 🦷 Computer Vision System for Real-Time Nasal–Jaw Distance Measurement in Dental Applications
 
 📌 **ICCES-2025 (IEEE Conference)**
 
-⚡ 150+ FPS real-time performance
-⚡ 4.9% CPU utilization
-⚡ Sub-pixel calibration accuracy
+⚡ 150+ FPS real-time performance  
+⚡ 4.9% CPU utilization  
+⚡ Sub-pixel calibration accuracy  
 
-📥 **Read Full Paper:**
+📥 **Read Full Paper:**  
 https://drive.google.com/file/d/1x6QKomOKSH-slyzdLJyiucBERTP-iVN-/view
+
+---
+
+## 👁️ A Comparative Analysis Framework for Automated Human Detection
+
+📌 **ICTIS 2026 – International Conference on Information and Communication Technology for Intelligent Systems**  
+📚 **Springer Nature Publication**
+
+⚡ Comparative analysis of YOLOv5, SSD, Faster R-CNN, RetinaNet, and EfficientDet  
+⚡ Achieved up to **96% accuracy** on CCTV human detection datasets  
+⚡ Developed an intelligent surveillance framework for real-time monitoring and alert generation
+
+📄 **Paper Title:**  
+*A Comparative Analysis Framework for Automated Human Detection*
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/vignesh-n-salian">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-n-salian)
 
-<a href="https://www.instagram.com/_vignesh_salian">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_vignesh_salian)
 
-<a href="mailto:salianvignesh05@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salianvignesh05@gmail.com)
 
 ---
 
@@ -61,51 +69,45 @@ https://drive.google.com/file/d/1x6QKomOKSH-slyzdLJyiucBERTP-iVN-/view
 
 ## 👨‍💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
 ## ⚙️ Frameworks & Libraries
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge\&logo=scikit-learn)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
 ---
 
 ## 🗄 Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ## 🧰 Tools & Technologies
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vignesh-Salian&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Vignesh-Salian&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vignesh-Salian&theme=tokyonight&hide_border=true" />
-</p>
+![](https://streak-stats.demolab.com?user=Vignesh-Salian&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh-Salian&theme=tokyonight&hide_border=true&layout=compact" />
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh-Salian&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
 
