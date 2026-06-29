@@ -106,7 +106,6 @@
         <img src="https://img.shields.io/badge/REST_APIs-005C84?style=flat-square&logo=json&logoColor=white" alt="REST APIs" />
         <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" />
         <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" />
-        <img src="https://img.shields.io/badge/Alembic-336791?style=flat-square&logo=python&logoColor=white" alt="Alembic" />
       </td>
     </tr>
     <tr>
@@ -125,7 +124,6 @@
       <td align="left">
         <img src="https://img.shields.io/badge/OOP-b52e31?style=flat-square" alt="OOP" />
         <img src="https://img.shields.io/badge/DSA-00599C?style=flat-square" alt="DSA" />
-        <img src="https://img.shields.io/badge/MVC-4B0082?style=flat-square" alt="MVC" />
         <img src="https://img.shields.io/badge/RBAC-ff69b4?style=flat-square" alt="RBAC" />
         <img src="https://img.shields.io/badge/Database_Design-4479A1?style=flat-square" alt="Database Design" />
         <img src="https://img.shields.io/badge/API_Design-009688?style=flat-square" alt="API Design" />
