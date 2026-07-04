@@ -65,7 +65,7 @@
 <div align="center">
   <table border="0" style="border: none;">
     <tr>
-      <td align="right" width="30%"><b>👨‍💻 Languages</b></td>
+      <td align="right" width="30%"><b>👨💻 Languages</b></td>
       <td align="left" width="70%">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -179,15 +179,18 @@
 
 <div align="center">
   <a href="https://github.com/Vignesh-Salian">
-    <img src="https://github-readme-stats.vercel.app/api?username=Vignesh-Salian&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+    <!-- REPLACED URL HERE -->
+    <img src="https://YOUR-CUSTOM-VERCEL-URL.vercel.app/api?username=Vignesh-Salian&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Vignesh-Salian">
+    <!-- STREAK URL IS UNCHANGED AS IT USES DEMOLAB AND WORKS FINE -->
     <img src="https://streak-stats.demolab.com?user=Vignesh-Salian&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
   </a>
   <br>
   <br>
   <a href="https://github.com/Vignesh-Salian">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh-Salian&theme=tokyonight&hide_border=true&layout=compact" width="48%" alt="Top Languages" />
+    <!-- REPLACED URL HERE -->
+    <img src="https://YOUR-CUSTOM-VERCEL-URL.vercel.app/api/top-langs/?username=Vignesh-Salian&theme=tokyonight&hide_border=true&layout=compact" width="48%" alt="Top Languages" />
   </a>
 </div>
 
