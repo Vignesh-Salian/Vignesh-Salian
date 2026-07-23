@@ -179,18 +179,18 @@
 
 <div align="center">
   <a href="https://github.com/Vignesh-Salian">
-    <img src="https://github-readme-stats.vercel.app/api?username=Vignesh-Salian&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=Vignesh-Salian&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Vignesh-Salian">
+    <!-- The streak stats use a different server, so it was already working! -->
     <img src="https://streak-stats.demolab.com?user=Vignesh-Salian&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
   </a>
   <br>
   <br>
   <a href="https://github.com/Vignesh-Salian">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh-Salian&theme=tokyonight&hide_border=true&layout=compact" width="48%" alt="Top Languages" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vignesh-Salian&theme=tokyonight&hide_border=true&layout=compact" width="48%" alt="Top Languages" />
   </a>
 </div>
-
 <br>
 
 <div align="center">
