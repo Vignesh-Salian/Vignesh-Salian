@@ -39,7 +39,7 @@
   <tr>
     <td width="60%" valign="top">
       <ul>
-        <li>🎓 3rd-year B.Tech <b>Information Science</b> student at <b>NMAMIT</b> with a strong foundation in OOP and Python.</li>
+        <li>🎓 Final-year B.Tech <b>Information Science</b> student at <b>NMAMIT</b> with a strong foundation in OOP and Python.</li>
         <li>💻 Building practical, real-world applications using <b>Python, Flask, JavaScript, HTML, CSS, and SQL</b>.</li>
         <li>🤖 Passionate about <b>Machine Learning</b>, <b>Computer Vision</b>, and AI-driven solutions.</li>
         <li>📈 Currently strengthening my <b>Data Structures & Algorithms</b>, system design, and full-stack skills.</li>
